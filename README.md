@@ -1,4 +1,4 @@
-# 🤖 Clustering No Supervisado - Bootcamp de IA
+# 🤖 Clustering No Supervisado 
 
 Este repositorio contiene los ejercicios y prácticas desarrollados durante el bootcamp de Inteligencia Artificial, enfocados en el aprendizaje automático no supervisado y técnicas de segmentación de datos.
 
